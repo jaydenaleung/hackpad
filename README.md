@@ -25,7 +25,7 @@ The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a
 - Designed with Onshape
 - Top plate, black
 - Bottom case, titled, yellow
-- 3.4mm holes for 3mm bolts and nuts (nuts go on the bottom)
+- 3.4mm holes for 3mm bolts and heatset inserts (inserts go on the bottom)
 - See picture for reference!
 
 ## Electronics/PCB
@@ -42,5 +42,12 @@ The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a
 - Opened Spotify songs by using the method .SYSTEM_EXEC(command), with the command being "start spotify:track:TRACKID"
 
 ## BOM
-
-
+- 1 3D printed case (2 parts in total, top and bottom)
+- 1 USB-C cable
+- 1 Seeed XIAO RP2040 Microcontroller
+- 1 Custom PCB found in 'pcb' folder in this repo
+- 4 MX-Style switches
+- 4 DSA white keycaps
+- 2 SK6812 MINI-E LEDs
+- 4 M3x16mm screws
+- 4 M3x5mx4mm heatset inserts
