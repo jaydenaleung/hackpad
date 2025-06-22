@@ -1785,17 +1785,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 106.68 101.6 90)
+		(lib_id "power:+5V")
+		(at 106.68 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5287542b-4465-4ef9-b5a9-fcdda6e0d58f")
+		(uuid "51e0a0cd-09f6-4894-86eb-e9f54e6046bc")
 		(property "Reference" "#PWR03"
-			(at 113.03 101.6 0)
+			(at 102.87 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1803,13 +1803,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "+5V"
 			(at 110.49 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -1830,7 +1830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 106.68 101.6 0)
 			(effects
 				(font
@@ -1840,7 +1840,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cca184e4-bd97-4593-9614-762e1f41c25f")
+			(uuid "8dbc106d-821a-419d-8507-aab84aa45b00")
 		)
 		(instances
 			(project ""
@@ -1989,6 +1989,73 @@
 			(project ""
 				(path "/8c2ae732-0066-4216-a702-720d993f922d"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 81.28 101.6 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e9affd0-720f-489e-b413-b12a2e419b04")
+		(property "Reference" "#PWR05"
+			(at 74.93 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 81.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd31df9d-dc48-47d9-a109-7e2a3e6f969c")
+		)
+		(instances
+			(project ""
+				(path "/8c2ae732-0066-4216-a702-720d993f922d"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -2239,73 +2306,6 @@
 			(project ""
 				(path "/8c2ae732-0066-4216-a702-720d993f922d"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 81.28 101.6 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce90ad69-0aa2-42c7-a0f9-c71d23c47ba4")
-		(property "Reference" "#PWR05"
-			(at 85.09 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 77.47 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 81.28 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 81.28 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 81.28 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "12b705f5-f7f1-471d-8a07-6f75d5543bdb")
-		)
-		(instances
-			(project ""
-				(path "/8c2ae732-0066-4216-a702-720d993f922d"
-					(reference "#PWR05")
 					(unit 1)
 				)
 			)
