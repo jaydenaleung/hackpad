@@ -4,7 +4,7 @@ Here's my Hackpad starter project for Hack Club's Highway to Undercity program! 
 The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a row of four customizable buttons and the USB-C port hidden in the back, it was made to provide a smooth experience. (Scroll past pictures to see rest of description.)
 ![Screenshot 2025-06-22 040710](https://github.com/user-attachments/assets/dd3a8b95-d35b-4a16-a328-587ca53797ac)
 ![Screenshot 2025-06-22 033012](https://github.com/user-attachments/assets/e5b5c7bf-d3e1-4c58-ad8d-61d1eb1f3194)
-![Uploading Screenshot 2025-06-22 040733.png…]()
+![Screenshot 2025-06-22 040733](https://github.com/user-attachments/assets/a0f06b9e-7394-455b-a691-4c000407ee65)
 Top plate in a different color for a more distinct image:
 ![Screenshot 2025-06-22 033105](https://github.com/user-attachments/assets/2fa3bb47-7b19-4fd5-8e92-cc600cf702f0)
 ![Screenshot 2025-06-22 033500](https://github.com/user-attachments/assets/be5e74e0-2d99-4d41-99fd-7ab77857f9e4)
