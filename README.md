@@ -2,8 +2,13 @@
 Here's my Hackpad starter project for Hack Club's Highway to Undercity program! I made this to become more familiar with creating a Highway project and to gain more practice before I tackle a custom project.
 
 The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a row of four customizable buttons and the USB-C port hidden in the back, it was made to provide a smooth experience. (Scroll past pictures to see rest of description.)
-![Macropad (Highway)](https://github.com/user-attachments/assets/ccea52ff-b33b-4de5-be28-8604668b59ff)
-![Macropad (Highway) (1)](https://github.com/user-attachments/assets/473e6de3-8792-462a-80ba-a0d12bef1485)
+![Screenshot 2025-06-22 040710](https://github.com/user-attachments/assets/dd3a8b95-d35b-4a16-a328-587ca53797ac)
+![Screenshot 2025-06-22 033012](https://github.com/user-attachments/assets/e5b5c7bf-d3e1-4c58-ad8d-61d1eb1f3194)
+![Uploading Screenshot 2025-06-22 040733.png…]()
+Top plate in a different color for a more distinct image:
+![Screenshot 2025-06-22 033105](https://github.com/user-attachments/assets/2fa3bb47-7b19-4fd5-8e92-cc600cf702f0)
+![Screenshot 2025-06-22 033500](https://github.com/user-attachments/assets/be5e74e0-2d99-4d41-99fd-7ab77857f9e4)
+
 
 ## Features
 - A row of four programmable/customizable buttons
@@ -26,7 +31,7 @@ The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a
 - Top plate, black
 - Bottom case, titled, yellow
 - 3.4mm holes for 3mm bolts and heatset inserts (inserts go on the bottom)
-- See picture for reference!
+- See pictures above for reference!
 
 ## Electronics/PCB
 - Used KiCAD
