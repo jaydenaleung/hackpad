@@ -31,9 +31,8 @@ The D-MACROPAD is a titled, customized macropad with an aesthetic design. With a
 ## Electronics/PCB
 - Used KiCAD
 - The four keys are in a straight row, the XIAO goes above it, and the LEDs sit on each side of the XIAO
-![image](https://github.com/user-attachments/assets/be93e4ac-1608-48eb-9ad4-99f8627aa8cd)
-![image](https://github.com/user-attachments/assets/9a32654c-b0a9-4a2e-82cd-c9aafc2638b5)
-![image](https://github.com/user-attachments/assets/eb9a2bce-a05f-47d9-b114-5ed3042904d2) (I layered all the gerber files and drill maps on top of each other.)
+![image](https://github.com/user-attachments/assets/136cd632-55a5-4650-80f0-c5f3a2c50105)
+![image](https://github.com/user-attachments/assets/928a9f3f-cf9e-4b82-a828-172348de5d95)
 
 ## Firmware - KMK
 - Used KMK
